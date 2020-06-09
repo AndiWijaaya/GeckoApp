@@ -1,16 +1,13 @@
-# gecko
+Gecko App
+<br><br>
+Nama : Andi Wijaya<br>
+NIM : 20165520004<br>
+<br><br>
+Teknik Informatika<br>
+Matana University <br>
 
-A new Gecko application.
+<br><br>
 
-## Getting Started
+<h2>Latar Belakang</h2>
 
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
-
-For help getting started with Flutter, view our
-[online documentation](https://flutter.dev/docs), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+<p>Aplikasi yang akan saya bangun bernama “Gecko App” mengenai artikel cara merawat dan jenis Gecko Hias. Disaat pandemi saat ini dibutuhkan hobby baru yang unik untuk menghilangkan kebosanan pada saat dirumah, memelihara Gecko Hias adalah salah satunya sebelum memilih Gecko Hias diperlukan untuk mengetahui jenis Gecko yang ingin dipelihara dan tata cara merawatnya. Ole karna itu “Gecko App” menyediakan informasi  terkait tentang Gecko Hias.</p>
